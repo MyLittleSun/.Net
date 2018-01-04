@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "适应设计模式", "适应设计模式", "{41B7E39E-ED65-4ACF-9677-0A3B7CC0F2A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Iterator模式", "Iterator模式\Iterator模式.csproj", "{117A6AB7-E16F-4EB5-BE80-C99993BDAE3D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{117A6AB7-E16F-4EB5-BE80-C99993BDAE3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{117A6AB7-E16F-4EB5-BE80-C99993BDAE3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{117A6AB7-E16F-4EB5-BE80-C99993BDAE3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{117A6AB7-E16F-4EB5-BE80-C99993BDAE3D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{117A6AB7-E16F-4EB5-BE80-C99993BDAE3D} = {41B7E39E-ED65-4ACF-9677-0A3B7CC0F2A9}
+	EndGlobalSection
+EndGlobal
